@@ -1,0 +1,4 @@
+[2024-01-04 10:27:38.690] ================= Logging =================
+[2024-01-04 10:27:38.690] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\Debug\test1.CRF[size:4320032]
+[2024-01-04 10:27:38.690] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 10:27:38.691] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050

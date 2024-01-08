@@ -1,0 +1,652 @@
+[2023-12-29 15:57:16.667] ================= Logging =================
+[2023-12-29 15:57:16.667] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<194>: Invalid Block! fileoffset:64(0x40), Header.compress:0x0, encrypt:0x0, res:0x0, raw_Len:0(0x00000000), len:0(0x00000000)
+[2023-12-29 15:57:16.667] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:7077996 result: compress:0, validlen:0, block:0
+[2023-12-29 15:58:11.822] ================= Logging =================
+[2023-12-29 15:58:11.822] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<194>: Invalid Block! fileoffset:64(0x40), Header.compress:0x0, encrypt:0x0, res:0x0, raw_Len:0(0x00000000), len:0(0x00000000)
+[2023-12-29 15:58:11.824] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:3014706 result: compress:0, validlen:0, block:0
+[2023-12-29 15:59:00.714] ================= Logging =================
+[2023-12-29 15:59:00.714] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<194>: Invalid Block! fileoffset:64(0x40), Header.compress:0x0, encrypt:0x0, res:0x0, raw_Len:0(0x00000000), len:0(0x00000000)
+[2023-12-29 15:59:00.714] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:3014706 result: compress:0, validlen:0, block:0
+[2023-12-29 15:59:16.356] ================= Logging =================
+[2023-12-29 15:59:16.357] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<194>: Invalid Block! fileoffset:64(0x40), Header.compress:0x0, encrypt:0x0, res:0x0, raw_Len:0(0x00000000), len:0(0x00000000)
+[2023-12-29 15:59:16.357] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:3276846 result: compress:0, validlen:0, block:0
+[2023-12-29 16:03:18.778] ================= Logging =================
+[2023-12-29 16:03:18.778] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2023-12-29 16:03:18.778] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2023-12-29 16:03:18.785] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2023-12-29 16:09:23.802] ================= Logging =================
+[2023-12-29 16:09:23.802] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2023-12-29 16:09:23.802] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2023-12-29 16:09:23.804] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2023-12-29 16:10:38.688] ================= Logging =================
+[2023-12-29 16:10:38.688] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2023-12-29 16:10:38.688] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2023-12-29 16:10:38.689] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2023-12-29 16:11:23.453] ================= Logging =================
+[2023-12-29 16:11:23.453] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2023-12-29 16:11:23.453] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2023-12-29 16:11:23.454] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2023-12-29 17:17:39.061] ================= Logging =================
+[2023-12-29 17:17:39.061] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2023-12-29 17:17:39.061] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2023-12-29 17:17:39.065] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 14:30:58.333] ================= Logging =================
+[2024-01-02 14:30:58.334] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 14:30:58.334] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 14:30:58.339] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 14:35:59.408] ================= Logging =================
+[2024-01-02 14:35:59.408] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 14:35:59.408] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 14:35:59.409] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 14:38:28.815] ================= Logging =================
+[2024-01-02 14:38:28.815] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 14:38:28.815] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 14:38:28.819] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 14:40:28.330] ================= Logging =================
+[2024-01-02 14:40:28.330] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 14:40:28.330] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 14:40:28.332] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 14:52:25.360] ================= Logging =================
+[2024-01-02 14:52:25.360] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 14:52:25.360] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 14:52:25.361] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:19:18.818] ================= Logging =================
+[2024-01-02 16:19:18.818] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:19:18.818] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:19:18.820] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:25:11.590] ================= Logging =================
+[2024-01-02 16:25:11.590] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:25:11.590] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:25:11.591] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:32:43.177] ================= Logging =================
+[2024-01-02 16:32:43.177] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:32:43.177] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:32:43.179] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:33:41.162] ================= Logging =================
+[2024-01-02 16:33:41.163] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:33:41.163] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:33:41.163] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:36:16.796] ================= Logging =================
+[2024-01-02 16:36:16.796] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:36:16.796] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:36:16.799] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:37:03.286] ================= Logging =================
+[2024-01-02 16:37:03.286] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:37:03.286] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:37:03.287] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:39:14.075] ================= Logging =================
+[2024-01-02 16:39:14.076] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:39:14.076] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:39:14.077] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:39:32.612] ================= Logging =================
+[2024-01-02 16:39:32.612] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:39:32.612] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:39:32.614] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:45:38.269] ================= Logging =================
+[2024-01-02 16:45:38.269] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:45:38.269] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:45:38.271] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 16:46:07.823] ================= Logging =================
+[2024-01-02 16:46:07.823] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 16:46:07.823] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 16:46:07.823] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 17:04:54.959] ================= Logging =================
+[2024-01-02 17:04:54.959] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 17:04:54.959] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 17:04:54.961] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 17:05:29.427] ================= Logging =================
+[2024-01-02 17:05:29.427] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 17:05:29.427] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 17:05:29.428] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-02 17:19:47.481] ================= Logging =================
+[2024-01-02 17:19:47.481] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-02 17:19:47.481] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-02 17:19:47.482] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:16:53.693] ================= Logging =================
+[2024-01-03 09:16:53.693] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:16:53.693] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:16:53.698] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:22:41.927] ================= Logging =================
+[2024-01-03 09:22:41.927] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:22:41.928] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:22:41.930] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:27:45.525] ================= Logging =================
+[2024-01-03 09:27:45.525] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:27:45.525] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:27:45.530] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:29:56.207] ================= Logging =================
+[2024-01-03 09:29:56.207] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:29:56.207] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:29:56.212] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:44:48.431] ================= Logging =================
+[2024-01-03 09:44:48.431] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:44:48.431] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:44:48.433] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:45:50.514] ================= Logging =================
+[2024-01-03 09:45:50.514] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:45:50.514] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:45:50.515] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:49:01.761] ================= Logging =================
+[2024-01-03 09:49:01.761] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:49:01.761] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:49:01.764] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:53:27.318] ================= Logging =================
+[2024-01-03 09:53:27.318] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:53:27.318] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:53:27.319] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:57:04.964] ================= Logging =================
+[2024-01-03 09:57:04.964] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:57:04.964] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:57:04.965] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 09:57:13.198] ================= Logging =================
+[2024-01-03 09:57:13.198] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 09:57:13.198] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 09:57:13.201] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 10:49:37.951] ================= Logging =================
+[2024-01-03 10:49:37.951] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 10:49:37.953] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 10:49:37.953] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 10:50:06.612] ================= Logging =================
+[2024-01-03 10:50:06.612] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 10:50:06.612] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 10:50:06.612] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 10:50:27.363] ================= Logging =================
+[2024-01-03 10:50:27.363] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 10:50:27.363] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 10:50:27.363] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 10:51:14.142] ================= Logging =================
+[2024-01-03 10:51:14.142] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 10:51:14.142] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 10:51:14.144] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 10:52:17.182] ================= Logging =================
+[2024-01-03 10:52:17.184] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 10:52:17.184] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 10:52:17.184] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 10:52:40.791] ================= Logging =================
+[2024-01-03 10:52:40.792] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 10:52:40.792] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 10:52:40.793] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 10:54:08.605] ================= Logging =================
+[2024-01-03 10:54:08.605] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 10:54:08.605] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 10:54:08.607] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 10:54:35.667] ================= Logging =================
+[2024-01-03 10:54:35.667] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 10:54:35.667] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 10:54:35.668] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 11:08:28.841] ================= Logging =================
+[2024-01-03 11:08:28.841] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 11:08:28.841] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 11:08:28.844] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 11:11:38.584] ================= Logging =================
+[2024-01-03 11:11:38.584] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 11:11:38.584] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 11:11:38.586] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 11:16:48.013] ================= Logging =================
+[2024-01-03 11:16:48.013] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 11:16:48.013] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 11:16:48.014] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 11:21:01.743] ================= Logging =================
+[2024-01-03 11:21:01.743] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 11:21:01.743] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 11:21:01.744] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 11:21:58.889] ================= Logging =================
+[2024-01-03 11:21:58.889] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 11:21:58.890] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 11:21:58.892] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 11:46:44.322] ================= Logging =================
+[2024-01-03 11:46:44.322] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 11:46:44.322] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 11:46:44.324] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 11:48:07.080] ================= Logging =================
+[2024-01-03 11:48:07.080] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 11:48:07.080] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 11:48:07.081] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 13:49:26.969] ================= Logging =================
+[2024-01-03 13:49:26.971] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 13:49:26.971] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 13:49:26.972] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 13:50:09.161] ================= Logging =================
+[2024-01-03 13:50:09.161] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 13:50:09.161] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 13:50:09.162] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 13:51:28.208] ================= Logging =================
+[2024-01-03 13:51:28.208] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 13:51:28.208] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 13:51:28.208] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 16:08:24.904] ================= Logging =================
+[2024-01-03 16:08:24.904] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 16:08:24.904] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 16:08:24.905] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 16:37:19.736] ================= Logging =================
+[2024-01-03 16:37:19.736] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 16:37:19.736] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 16:37:19.738] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:18:36.643] ================= Logging =================
+[2024-01-03 17:18:36.643] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:18:36.643] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:18:36.646] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:18:59.908] ================= Logging =================
+[2024-01-03 17:18:59.908] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:18:59.909] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:18:59.909] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:19:35.522] ================= Logging =================
+[2024-01-03 17:19:35.522] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:19:35.522] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:19:35.524] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:20:18.608] ================= Logging =================
+[2024-01-03 17:20:18.609] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:20:18.609] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:20:18.609] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:22:09.849] ================= Logging =================
+[2024-01-03 17:22:09.849] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:22:09.849] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:22:09.850] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:25:44.819] ================= Logging =================
+[2024-01-03 17:25:44.819] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:25:44.819] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:25:44.821] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:27:32.250] ================= Logging =================
+[2024-01-03 17:27:32.250] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:27:32.251] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:27:32.252] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:32:04.487] ================= Logging =================
+[2024-01-03 17:32:04.487] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:32:04.487] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:32:04.488] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:34:11.707] ================= Logging =================
+[2024-01-03 17:34:11.707] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:34:11.707] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:34:11.709] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:35:32.048] ================= Logging =================
+[2024-01-03 17:35:32.048] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:35:32.048] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:35:32.050] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:35:59.150] ================= Logging =================
+[2024-01-03 17:35:59.150] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:35:59.150] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:35:59.151] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:36:31.772] ================= Logging =================
+[2024-01-03 17:36:31.772] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:36:31.773] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:36:31.773] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:37:26.999] ================= Logging =================
+[2024-01-03 17:37:26.999] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:37:26.999] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:37:26.999] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:37:53.522] ================= Logging =================
+[2024-01-03 17:37:53.522] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:37:53.522] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:37:53.524] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:40:41.442] ================= Logging =================
+[2024-01-03 17:40:41.442] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:40:41.442] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:40:41.445] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:41:34.182] ================= Logging =================
+[2024-01-03 17:41:34.182] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:41:34.182] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:41:34.183] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:42:05.702] ================= Logging =================
+[2024-01-03 17:42:05.702] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:42:05.702] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:42:05.704] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:43:17.310] ================= Logging =================
+[2024-01-03 17:43:17.310] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:43:17.310] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:43:17.312] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:44:59.854] ================= Logging =================
+[2024-01-03 17:44:59.854] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:44:59.854] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:44:59.856] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:46:14.846] ================= Logging =================
+[2024-01-03 17:46:14.846] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:46:14.846] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:46:14.848] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:47:16.546] ================= Logging =================
+[2024-01-03 17:47:16.546] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:47:16.546] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:47:16.549] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:48:33.694] ================= Logging =================
+[2024-01-03 17:48:33.695] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:48:33.695] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:48:33.697] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:49:27.977] ================= Logging =================
+[2024-01-03 17:49:27.977] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:49:27.977] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:49:27.979] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 17:49:59.662] ================= Logging =================
+[2024-01-03 17:49:59.662] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 17:49:59.662] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 17:49:59.663] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-03 18:00:13.405] ================= Logging =================
+[2024-01-03 18:00:13.405] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-03 18:00:13.405] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-03 18:00:13.407] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:18:13.763] ================= Logging =================
+[2024-01-04 09:18:13.763] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:18:13.763] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:18:13.766] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:21:22.800] ================= Logging =================
+[2024-01-04 09:21:22.800] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:21:22.800] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:21:22.802] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:22:40.057] ================= Logging =================
+[2024-01-04 09:22:40.057] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:22:40.058] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:22:40.059] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:23:47.675] ================= Logging =================
+[2024-01-04 09:23:47.675] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:23:47.675] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:23:47.677] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:30:50.771] ================= Logging =================
+[2024-01-04 09:30:50.771] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:30:50.771] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:30:50.773] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:31:47.038] ================= Logging =================
+[2024-01-04 09:31:47.038] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:31:47.038] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:31:47.040] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:32:20.269] ================= Logging =================
+[2024-01-04 09:32:20.269] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:32:20.269] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:32:20.270] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:33:26.942] ================= Logging =================
+[2024-01-04 09:33:26.943] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:33:26.943] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:33:26.944] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:34:09.011] ================= Logging =================
+[2024-01-04 09:34:09.011] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:34:09.011] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:34:09.013] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:37:38.274] ================= Logging =================
+[2024-01-04 09:37:38.274] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:37:38.274] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:37:38.276] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:37:48.658] ================= Logging =================
+[2024-01-04 09:37:48.658] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:37:48.658] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:37:48.659] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 09:40:10.880] ================= Logging =================
+[2024-01-04 09:40:10.880] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 09:40:10.881] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 09:40:10.882] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 10:33:44.548] ================= Logging =================
+[2024-01-04 10:33:44.548] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 10:33:44.548] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 10:33:44.549] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 10:45:07.242] ================= Logging =================
+[2024-01-04 10:45:07.243] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 10:45:07.243] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 10:45:07.244] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 10:49:54.571] ================= Logging =================
+[2024-01-04 10:49:54.571] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 10:49:54.571] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 10:49:54.572] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 10:51:44.690] ================= Logging =================
+[2024-01-04 10:51:44.690] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 10:51:44.690] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 10:51:44.692] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 10:53:48.021] ================= Logging =================
+[2024-01-04 10:53:48.021] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 10:53:48.021] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 10:53:48.022] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 10:54:39.337] ================= Logging =================
+[2024-01-04 10:54:39.337] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 10:54:39.337] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 10:54:39.338] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 11:09:49.184] ================= Logging =================
+[2024-01-04 11:09:49.184] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 11:09:49.184] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 11:09:49.187] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 11:10:39.688] ================= Logging =================
+[2024-01-04 11:10:39.688] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 11:10:39.689] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 11:10:39.691] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 11:11:04.707] ================= Logging =================
+[2024-01-04 11:11:04.707] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 11:11:04.707] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 11:11:04.709] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 11:11:30.290] ================= Logging =================
+[2024-01-04 11:11:30.290] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 11:11:30.290] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 11:11:30.291] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 13:08:26.051] ================= Logging =================
+[2024-01-04 13:08:26.051] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 13:08:26.051] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 13:08:26.052] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 13:09:10.650] ================= Logging =================
+[2024-01-04 13:09:10.650] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 13:09:10.651] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 13:09:10.652] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-04 13:10:46.483] ================= Logging =================
+[2024-01-04 13:10:46.483] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-04 13:10:46.483] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-04 13:10:46.485] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-05 09:53:14.360] ================= Logging =================
+[2024-01-05 09:53:14.360] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-05 09:53:14.361] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-05 09:53:14.362] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-05 11:13:13.865] ================= Logging =================
+[2024-01-05 11:13:13.865] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-05 11:13:13.865] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-05 11:13:13.867] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-05 13:54:37.601] ================= Logging =================
+[2024-01-05 13:54:37.602] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 13:54:37.602] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 13:54:37.603] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 13:54:37.603] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:16:02.515] ================= Logging =================
+[2024-01-05 14:16:02.515] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:16:02.516] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:16:02.516] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:16:02.516] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:17:23.620] ================= Logging =================
+[2024-01-05 14:17:23.620] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:17:23.620] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:17:23.621] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:17:23.621] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:18:22.427] ================= Logging =================
+[2024-01-05 14:18:22.427] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:18:22.427] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:18:22.430] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:18:22.430] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:20:14.520] ================= Logging =================
+[2024-01-05 14:20:14.520] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:20:14.520] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:20:14.521] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:20:14.521] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:22:11.223] ================= Logging =================
+[2024-01-05 14:22:11.223] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:22:11.223] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:22:11.224] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:22:11.224] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:22:50.611] ================= Logging =================
+[2024-01-05 14:22:50.611] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:22:50.611] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:22:50.612] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:22:50.612] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:24:14.543] ================= Logging =================
+[2024-01-05 14:24:14.543] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:24:14.543] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:24:14.546] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:24:14.546] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:24:31.663] ================= Logging =================
+[2024-01-05 14:24:31.663] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:24:31.663] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:24:31.665] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:24:31.665] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:31:23.856] ================= Logging =================
+[2024-01-05 14:31:23.856] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:31:23.856] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:31:23.858] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:31:23.858] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:34:00.463] ================= Logging =================
+[2024-01-05 14:34:00.463] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-05 14:34:00.463] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-05 14:34:00.465] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-05 14:35:18.846] ================= Logging =================
+[2024-01-05 14:35:18.846] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:35:18.846] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:35:18.848] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:35:18.848] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:35:39.011] ================= Logging =================
+[2024-01-05 14:35:39.011] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:35:39.011] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:35:39.012] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:35:39.012] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 14:37:42.583] ================= Logging =================
+[2024-01-05 14:37:42.583] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 14:37:42.583] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 14:37:42.584] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 14:37:42.584] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:52428800, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:00:56.451] ================= Logging =================
+[2024-01-05 15:00:56.451] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-05 15:00:56.451] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-05 15:00:56.452] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-05 15:03:05.020] ================= Logging =================
+[2024-01-05 15:03:05.020] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<141>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test1.CRF[size:4320032]
+[2024-01-05 15:03:05.020] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<143>: Fileheader raw type:0x0001, ver:0x0002, len:4320000[0x0041EB00], time:1702554007314[0x18C68207712], fst:24[0x00000018], lst:0[0x00000000]
+[2024-01-05 15:03:05.021] CANDTUFileAccess: DBG: CWinFileEx::GetFileHeaderInfo<152>: Fileheader modified type:0x0001, ver:0x0002, len:4320000, time:1702554007314, fst:1776728, lst:2362050
+[2024-01-05 15:03:24.302] ================= Logging =================
+[2024-01-05 15:03:24.302] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:03:24.302] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:03:24.304] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:03:24.304] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:04:35.210] ================= Logging =================
+[2024-01-05 15:04:35.210] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:04:35.211] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:04:35.212] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:04:35.212] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:15:17.337] ================= Logging =================
+[2024-01-05 15:15:17.337] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:15:17.338] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:15:17.339] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:15:17.339] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:19:57.010] ================= Logging =================
+[2024-01-05 15:19:57.011] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:19:57.011] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:19:57.013] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:19:57.013] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:21:04.737] ================= Logging =================
+[2024-01-05 15:21:04.737] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:21:04.738] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:21:04.739] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:21:04.739] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:21:25.663] ================= Logging =================
+[2024-01-05 15:21:25.663] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:21:25.663] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:21:25.664] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:21:25.664] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:23:37.926] ================= Logging =================
+[2024-01-05 15:23:37.926] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:23:37.927] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:23:37.927] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:23:37.928] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:26:09.698] ================= Logging =================
+[2024-01-05 15:26:09.698] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:26:09.698] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:26:09.700] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:26:09.700] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:26:45.464] ================= Logging =================
+[2024-01-05 15:26:45.465] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:26:45.465] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:26:45.467] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:26:45.467] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:50:29.138] ================= Logging =================
+[2024-01-05 15:50:29.138] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:50:29.138] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:50:29.139] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:50:29.139] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:50:40.034] ================= Logging =================
+[2024-01-05 15:50:40.034] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:50:40.034] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:50:40.036] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:50:40.036] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:52:29.596] ================= Logging =================
+[2024-01-05 15:52:29.596] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:52:29.596] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:52:29.599] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:52:29.599] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:53:48.342] ================= Logging =================
+[2024-01-05 15:53:48.342] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:53:48.342] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:53:48.343] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:53:48.343] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:54:20.634] ================= Logging =================
+[2024-01-05 15:54:20.634] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:54:20.634] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:54:21.860] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:54:21.860] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 15:59:19.977] ================= Logging =================
+[2024-01-05 15:59:19.977] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 15:59:19.977] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 15:59:24.222] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 15:59:24.222] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 16:17:32.717] ================= Logging =================
+[2024-01-05 16:17:32.717] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 16:17:32.717] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 16:17:34.186] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 16:17:34.186] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 16:18:41.200] ================= Logging =================
+[2024-01-05 16:18:41.200] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 16:18:41.200] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 16:18:42.886] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 16:18:42.886] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 16:21:09.901] ================= Logging =================
+[2024-01-05 16:21:09.901] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 16:21:09.901] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 16:21:11.027] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 16:21:11.027] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 16:25:48.463] ================= Logging =================
+[2024-01-05 16:25:48.463] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 16:25:48.464] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 16:25:49.691] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 16:25:49.692] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 17:52:16.642] ================= Logging =================
+[2024-01-05 17:52:16.642] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 17:52:16.642] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 17:52:18.547] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 17:52:18.547] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 17:52:50.239] ================= Logging =================
+[2024-01-05 17:52:50.239] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 17:52:50.239] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 17:52:52.493] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 17:52:52.493] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 17:55:03.369] ================= Logging =================
+[2024-01-05 17:55:03.369] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 17:55:03.369] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 17:55:04.747] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 17:55:04.747] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 17:57:10.476] ================= Logging =================
+[2024-01-05 17:57:10.476] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 17:57:10.476] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 17:57:14.358] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 17:57:14.359] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 18:00:03.723] ================= Logging =================
+[2024-01-05 18:00:03.723] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 18:00:03.723] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-05 18:00:07.516] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-05 18:00:07.516] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-05 18:00:46.311] ================= Logging =================
+[2024-01-05 18:00:46.311] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-05 18:00:46.311] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-08 13:07:07.018] ================= Logging =================
+[2024-01-08 13:07:07.018] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-08 13:07:07.018] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-08 13:07:08.578] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-08 13:07:08.578] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-08 13:48:45.240] ================= Logging =================
+[2024-01-08 13:48:45.240] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-08 13:48:45.240] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-08 13:48:46.815] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-08 13:48:46.816] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-08 14:06:23.761] ================= Logging =================
+[2024-01-08 14:06:23.762] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-08 14:06:23.762] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-08 14:06:27.622] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-08 14:06:27.623] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
+[2024-01-08 14:23:27.307] ================= Logging =================
+[2024-01-08 14:23:27.308] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<136>: File: D:\ZLG\CRF(2023.12.14)\C#\CRF_DEMO\CRF_DEMO\bin\x86\Debug\test2.CRF[size:13146]
+[2024-01-08 14:23:27.308] CANDTUFileAccess: DBG: CANFDFileReader::GetFileHeaderInfo<138>: File header: type:0x0, ver:0x3, tm_first:1702523856, tm_end:1702523873, tm_start:0, tm_offs:0, items:7, len:13082
+[2024-01-08 14:23:27.310] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<187>: offset(13082) >= buffer_valid_size(13082)
+[2024-01-08 14:23:27.311] CANDTUFileAccess: DBG: CANFDFileReader::GetItemInfo<252>: Requestlen:524288000, validbufsize:13082 result: compress:1, validlen:310640, block:7
